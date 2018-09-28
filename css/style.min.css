@@ -1093,7 +1093,7 @@ button.secondary,
 [type="reset"].secondary,
 .button.secondary,
 [role="button"].secondary {
-  --button-back-color: #d32f2f;
+  --button-back-color: #00ccff;
   --button-fore-color: #f8f8f8
 }
 

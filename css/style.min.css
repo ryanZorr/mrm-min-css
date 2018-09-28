@@ -2403,7 +2403,8 @@ p.splash {
   position: absolute;
   width: 100%;
   text-align: center;
-  padding-top: 40vh
+  padding-top: 40vh;
+  color: #ddd;
 }
 
 .card p:not(.doc),

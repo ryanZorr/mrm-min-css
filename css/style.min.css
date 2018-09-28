@@ -2359,7 +2359,7 @@ samp:not(.doc) {
 }
 
 .index-splash-image {
-  background-image: url("../img/index-splash.jpg");
+  background-image: url("../img/bg1-splash.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

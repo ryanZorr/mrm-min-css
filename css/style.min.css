@@ -2369,7 +2369,7 @@ samp:not(.doc) {
 }
 
 .index-splash-image:not(.no-filter) {
-  filter: blur(2px)
+  filter: blur(0px)
 }
 
 h1.splash {
@@ -2426,7 +2426,7 @@ a.button.splash {
 a.button.splash:hover {
   background: #00ccff;
   color: #f8f8f8;
-  border-color: #00ccff
+  border-color: #00ccff;
 }
 
 @media screen and (min-width: 768px) {

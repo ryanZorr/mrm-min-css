@@ -2418,15 +2418,15 @@ a.button.splash {
   left: 25vw;
   text-align: center;
   font-size: 1.25rem;
-  border-color: #f22f21;
+  border-color: #00ccff;
   background: rgba(255, 255, 255, 0.35);
   transition: all 0.3s
 }
 
 a.button.splash:hover {
-  background: #f22f21;
+  background: #00ccff;
   color: #f8f8f8;
-  border-color: #f22f21
+  border-color: #00ccff
 }
 
 @media screen and (min-width: 768px) {
